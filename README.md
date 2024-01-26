@@ -1,15 +1,15 @@
 # HOPE-F Dataset for Multiple Fundamental Matrix Fitting
 <p float="left">
-<img src="assets/01_003_orig.jpg" alt="" style="width: 250px;"/>
-<img src="assets/01_003_vis.jpg" alt="" style="width: 250px;"/>
-<img src="assets/02_1003_orig.jpg" alt="" style="width: 250px;"/>
-<img src="assets/02_1003_vis.jpg" alt="" style="width: 250px;"/>
+<img src="assets/01_003_orig.jpg" alt="" style="width: 200px;"/>
+<img src="assets/01_003_vis.jpg" alt="" style="width: 200px;"/>
+<img src="assets/02_1003_orig.jpg" alt="" style="width: 200px;"/>
+<img src="assets/02_1003_vis.jpg" alt="" style="width: 200px;"/>
 </p>
 <p float="left">
-<img src="assets/03_2006_orig.jpg" alt="" style="width: 250px;"/>
-<img src="assets/03_2006_vis.jpg" alt="" style="width: 250px;"/>
-<img src="assets/04_3057_orig.jpg" alt="" style="width: 250px;"/>
-<img src="assets/04_3057_vis.jpg" alt="" style="width: 250px;"/>
+<img src="assets/03_2006_orig.jpg" alt="" style="width: 200px;"/>
+<img src="assets/03_2006_vis.jpg" alt="" style="width: 200px;"/>
+<img src="assets/04_3057_orig.jpg" alt="" style="width: 200px;"/>
+<img src="assets/04_3057_vis.jpg" alt="" style="width: 200px;"/>
 </p>
 
 HOPE-F contains 4000 synthetically generated image pairs showing objects from the [HOPE Dataset](https://github.com/swtyree/hope-dataset).
